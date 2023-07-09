@@ -1,0 +1,1 @@
+this is copy from file1 to file2
