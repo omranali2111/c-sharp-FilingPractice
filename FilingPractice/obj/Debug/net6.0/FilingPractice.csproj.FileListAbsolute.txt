@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\bin\Debug\net6.0\FilingPractice.exe
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\bin\Debug\net6.0\FilingPractice.deps.json
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\bin\Debug\net6.0\FilingPractice.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\bin\Debug\net6.0\FilingPractice.dll
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\bin\Debug\net6.0\FilingPractice.pdb
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.dll
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\refint\FilingPractice.dll
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.pdb
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\FilingPractice.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\FilingPractice\FilingPractice\obj\Debug\net6.0\ref\FilingPractice.dll
